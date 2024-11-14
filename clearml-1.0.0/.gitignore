@@ -1,0 +1,17 @@
+# Mac
+.DS_Store
+
+# IntelliJ
+.idea
+
+# Python
+*.pyc
+__pycache__
+build/
+dist/
+*.egg-info
+
+# example data
+examples/runs/
+examples/*_data
+examples/frameworks/data
